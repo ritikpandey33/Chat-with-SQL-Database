@@ -1,0 +1,12 @@
+streamlit
+pandas
+altair
+sqlalchemy
+langchain
+langchain-groq
+mysql-connector-python
+python-dotenv
+validators
+requests
+tqdm
+typing-extensions
